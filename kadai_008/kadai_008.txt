@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>	和菓子店も「トリックオアトリート！」</title>
+  <meta name="description" content="トリックオアトリート！">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <header>
+    <h1>SAMURAIニュース</h1>
+    <!-- ナビゲーションの部分のHTMLを記述してください -->
+  </header>
+  <main>
+    <article>
+      <h2>社会</h2>
+      <section>
+        <!-- 社会のセクションのHTMLを記述してください -->
+       </section>
+      <section>
+        <h3>私のおすすめ和菓子アンケートフォーム</h3>
+        <form>
+          <!-- アンケートフォームのHTMLを記述してください -->
+        </form>
+      </section>
+    </article>
+    <article>
+      <h2>テクノロジー</h2>
+      <section>
+        <!-- テクノロジーのセクションのHTMLを記述してください -->
+      </section>
+    </article>
+  </main>
+  <footer>
+    <p>&copy;SAMURAIニュース</p>
+  </footer>
+</body>
+</html>
